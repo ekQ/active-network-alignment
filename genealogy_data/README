@@ -1,0 +1,4 @@
+This directory contains 50 subdirectories with an instantiation of the family
+tree alignment problem. Note that the data has been anonymized but it contains
+the network structure and the similarity scores between candidate matching
+nodes.
