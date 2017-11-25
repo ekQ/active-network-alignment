@@ -1,8 +1,9 @@
-# active-network-alignment
+# Active network alignment
 Code for the paper:
 
-Malmi, E., Terzi, E., Gionis, A. Active network alignment: a matching-based
-approach. arXiv, 2016
+Malmi, E., Gionis, A., Terzi, E. "Active Network Alignment: A Matching-Based Approach". In Proceedings of the International Conference on Information and Knowledge Management (CIKM 2017), Singapore, pages 1687–1696, 2017. ([PDF](https://arxiv.org/pdf/1610.05516))
+
+**NB:** The code for the GibbsMatchings approach is not yet added to this repository but will be added soon. Please email the first author if you need it now.
 
 # Requirements
 
